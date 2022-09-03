@@ -1,0 +1,10 @@
+[user]
+    name = BloomingServos
+    email = bservos@sapphicpower.tools
+[alias]
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue) %an'
+    co = checkout
+[color "diff"]
+    meta = blue bold
+[pull]
+    rebase = false
